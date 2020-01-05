@@ -1,1 +1,1 @@
-Hello this is a repository for learning GIT
+Hello this is a repository for learning and doing GIT
